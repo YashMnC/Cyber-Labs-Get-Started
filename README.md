@@ -1,4 +1,4 @@
-**Computer Basics**
+                                                                        **Computer Basics**
 
 [https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer](https://www.freecodecamp.org/videos/computer-basics-the-4-basic-parts-of-a-computer)   
 
@@ -113,9 +113,9 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 6. Naive Bayes
 
-## Practice - [Kaggle](https://www.kaggle.com/)
+                                     ## Practice - [Kaggle](https://www.kaggle.com/)
 
-## Neural Networks
+                                                    ## Neural Networks
 
 1. [Neural Network - Coursera](https://www.coursera.org/learn/neural-networks)
 
@@ -148,12 +148,12 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
  
 
-# Competitive Programming
+                                                   # Competitive Programming
 
-1. List of topics to be covered along with tutorials 
+1. List of topics to be covered along with tutorials. 
 [Data-structures-and-algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) 
 
-2. List of tutorials on different topics 		
+2. List of tutorials on different topics .		
 [Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) 
 
 3. Articles published on Hackerrank [HackerRank-Topics](https://github.com/manoharreddyporeddy/HackerRank-Topics) 
@@ -164,7 +164,7 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 
 
-# Hardware
+                                                             # Hardware
 
 1. **Basic Arduino tutorials -[https://m.youtube.com/user/sciguy14](https://m.youtube.com/user/sciguy14)**
 
@@ -174,7 +174,7 @@ Must for everyone - [Coursera Andrew Ng Course](https://www.coursera.org/learn/m
 
 
 
-# C++
+                                                                # C++
 
 **STL**
 
